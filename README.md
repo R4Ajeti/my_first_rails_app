@@ -23,7 +23,7 @@ First application ruby on rails. Let’s build it!
 * v. npm install -g yarn (install nodejs if not installed) |cmd command|
 Done!
 
-### Testing first app in rails
+### Testing first app on rails
 * i. cd 'directory path'
 * ii. rails new my_first_rails_app
 * iii. rails generate scaffold car make:string model:string year:integer
