@@ -1,4 +1,4 @@
-# Tic Tac Toe with Ruby
+# First Ruby on Rails App
 
 #### [Assignment link](https://www.theodinproject.com/courses/web-development-101/lessons/your-first-rails-application)
 
